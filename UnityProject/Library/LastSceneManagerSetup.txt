@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/hosni/Desktop/Face/Assets/sc_hosni.unity
+- path: Assets/sc_hosni.unity
   isLoaded: 1
   isActive: 1
